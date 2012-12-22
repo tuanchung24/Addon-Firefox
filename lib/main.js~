@@ -5,4 +5,3 @@ notifications.notify({
   text: "Em chào anh Chung",
   iconURL: myIconURL
 });
-
